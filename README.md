@@ -1,2 +1,2 @@
 # nlp_chatbot
-for fun
+for fun and curiosity, and finally for learning. 
